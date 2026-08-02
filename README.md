@@ -163,62 +163,50 @@ Main Menu
 
 ## 🖼️ 1. Welcome Screen
 
-<img width="438" height="76" alt="s1" src="https://github.com/user-attachments/assets/91ee8271-b976-469f-9d47-f3a61b188427" />
+<img width="1015" height="120" alt="image" src="https://github.com/user-attachments/assets/cefbe731-e50e-44fa-a780-8b3121b31f6d" />
+
 
 ---
 
 ## 🖼️ 2. Add First Student
 
-<img width="408" height="188" alt="s2" src="https://github.com/user-attachments/assets/a66fdc7c-b08d-4d88-9aba-dfb181abf343" />
-
----
-
-## 🖼️ 3. Add Second Student
-
-<img width="404" height="185" alt="s3" src="https://github.com/user-attachments/assets/13eb874a-40ff-4553-87c3-85d6f55e9972" />
-
----
-
-## 🖼️ 4. Display All Students
-
-<img width="511" height="127" alt="s4" src="https://github.com/user-attachments/assets/acb9bad9-3509-48c8-adea-affb60c3c383" />
-
----
-
-## 🖼️ 5. Update Student Information
-
-
----<img width="370" height="193" alt="s5" src="https://github.com/user-attachments/assets/82baffd4-d45a-4404-8a51-6c3364de6de2" />
-
-
-## 🖼️ 6. Display Updated Record
-
-<img width="483" height="128" alt="s6" src="https://github.com/user-attachments/assets/2f333d40-5f93-4c92-a7b2-6b1be155231a" />
-
----
-
-## 🖼️ 7. Display Unique Subjects
-
-<img width="324" height="131" alt="s7" src="https://github.com/user-attachments/assets/cfd0f54c-6e7c-4844-9acd-a69c4c641099" />
-
----
-
-## 🖼️ 8. Delete Student Record
-
-<img width="295" height="64" alt="s8" src="https://github.com/user-attachments/assets/3ee51353-bb9c-4287-9e83-fe12f71c707e" />
-
----
-
-## 🖼️ 9. Display Students After Deletion
-
-<img width="500" height="110" alt="s9" src="https://github.com/user-attachments/assets/05ecaca4-0e5b-41ad-9154-03c7f9a6b1f8" />
+<img width="1600" height="605" alt="image" src="https://github.com/user-attachments/assets/4b691ab9-4e11-4498-b0e0-12c4a3a8bbab" />
 
 
 ---
 
-## 🖼️ 10. Exit Program
 
-<img width="475" height="73" alt="s10" src="https://github.com/user-attachments/assets/50f498ef-181b-4a4c-b48d-814fd87e68fb" />
+## 🖼️ 3. Display All Students
+
+<img width="1280" height="270" alt="image" src="https://github.com/user-attachments/assets/ab44b5ab-0204-4479-bfd7-c4df7f6640a0" />
+
+---
+
+## 🖼️ 4. Update Student Information
+
+
+<img width="822" height="363" alt="image" src="https://github.com/user-attachments/assets/36f5a633-2024-494d-80bc-ba45203a9560" />
+
+
+---
+
+## 🖼️ 5. Display Unique Subjects
+
+<img width="1600" height="523" alt="image" src="https://github.com/user-attachments/assets/0ac97601-3156-4dc3-97cd-7c4f8622586f" />
+
+---
+
+## 🖼️ 6. Delete Student Record
+
+<img width="1600" height="295" alt="image" src="https://github.com/user-attachments/assets/ac61ef0d-078a-42c8-adb2-b15b5c2cb76d" />
+
+
+
+---
+
+## 🖼️ 7. Exit Program
+
+<img width="1600" height="366" alt="image" src="https://github.com/user-attachments/assets/39ad8197-92f6-4217-a5b3-005cc3ff8d60" />
 
 
 ---
@@ -281,10 +269,9 @@ I also thank my institution for providing me with the opportunity to enhance my 
 
 # 👨‍💻 Author
 
-**Name:** Chand Khimani
+**Name:** vishvas solanki
 
-**Course:** Bachelor of Computer Applications (BCA)
-
+**Course:** b.com
 **Specialization:** Data Analysis
 
 **Programming Language:** Python
